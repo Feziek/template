@@ -38,8 +38,8 @@ template/
 Click **"Use this template"** on GitHub, then:
 
 ```bash
-git clone https://github.com/Feziek/template.git
-cd template
+git clone <your-new-repo>
+cd <your-new-repo>
 npm install
 ```
 
